@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Cisowscy/ZapisywaczSkanowFamilySearch.git"
+    "url": "git+https://github.com/Cisowscy/zapisywacz-skanow-familysearch.git"
   },
   "author": "https://www.cisowscy.com/",
   "license": "AGPL-3.0",
   "bugs": {
-    "url": "https://github.com/Cisowscy/ZapisywaczSkanowFamilySearch/issues"
+    "url": "https://github.com/Cisowscy/zapisywacz-skanow-familysearch/issues"
   },
-  "homepage": "https://github.com/Cisowscy/ZapisywaczSkanowFamilySearch#readme",
+  "homepage": "https://www.cisowscy.com/Narzedzia-dla-Genealoga/Mormoni/FamilySearch",
   "dependencies": {
     "core-js": "^2.6.4",
     "fs-extra": "^7.0.1",
