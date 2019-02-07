@@ -1,3 +1,15 @@
+# zapisywacz-skanow-familysearch 
+https://www.cisowscy.com/Narzedzia-dla-Genealoga/Mormoni/FamilySearch
+
+Mili Państwo chcielibyśmy przedstawić pewną sztuczkę, niejednemu genealogowi wygospodarowywującą nawet że, z godzinkę czasu.
+
+Zapewne nie jeden z nas, boryka się z szeregiem męk wynikających z nieporęczności czy też poniekąd niefunkcjonalności, pewnych rozwiązań stosowanych przez Mormonów na ich, że wielce pożądanej stronie — FamilySearch — posiadającej skany metryk, z niejednego zakątka świata. Prezentowane tu rozwiązanie usprawniające pewną niedogodność — póki czas nie pozwoli — jest solidnie siermiężne, aczkolwiek mimo wszystko pewien frasunek z naszych bark zdejmuje.
+
+Wykorzystamy zaoszczędzony czas by w zaciszu zanurzyć się w przyjemnej lekturze, tudzież pójść zaparzyć ulubionej herbaty. Zachęcamy do udostępniania tegoż postu dalej — https://www.facebook.com/Cisowscy/posts/1051352388399314 — na profilach sympatyków owej smykałki.
+Jak i dzielenie się zwłaszcza w grupach i na stronach ku genealogi i kresom ukierunkowanych. Tym drugim gdyż to z Lwowskiego archiwum, skany naprzykrzały się nie chcąc się w żaden przyjemny sposób zapisać  :)
+
+
+
 ## NIM ZACZNIESZ
 
 ABY UŻYĆ SKRYPTU NIEZBĘDNE JEST POŚADANIE ŚRODOWISKA NODE.JS 
