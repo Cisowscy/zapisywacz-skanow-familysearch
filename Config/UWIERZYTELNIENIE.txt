@@ -1,0 +1,4 @@
+{
+    "Twoja_nazwa_uzytkownika_FamilySearch" : "AlaMaKota",
+    "Twoje_haslo_uzytkownika_FamilySearch" : "123456789"
+}

@@ -1,0 +1,7 @@
+{
+    "czas_w_sekundach_potrzebny_na_wyostrzenie_widoku" : 25,
+    "rozdzielczosc_w_jakiej_dokonasz_zdjecia_kliszy" : {
+        "szerokosc_w_pixelach": 3200,
+        "wysokosc_w_pixelach": 2400 
+    }
+}

@@ -1,6 +1,6 @@
 {
   "name": "zapisywacz-skanow-familysearch",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "https://www.cisowscy.com/Narzedzia-dla-Genealoga/Mormoni/FamilySearch",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,6 @@
   "dependencies": {
     "core-js": "^2.6.4",
     "fs-extra": "^7.0.1",
-    "inquirer": "^6.2.2",
     "puppeteer": "^1.12.2"
   }
 }

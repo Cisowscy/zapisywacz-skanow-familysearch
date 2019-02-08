@@ -1,0 +1,18 @@
+[
+    {
+        "adres_przegladarki_filmu": "https://www.familysearch.org/ark:/61903/3:1:33S7-9RQ4-QP7?i=15&cc=1910265&cat=260556",
+        "numer_ostatniej_kliszy_filmu": 861,
+        "klisze_do_zapisania": [
+            {"zapisz_od_numeru": 426, "zapisz_do_numeru": 429},
+            {"zapisz_od_numeru": 431, "zapisz_do_numeru": 432}
+        ]
+    },
+    {
+        "adres_przegladarki_filmu": "https://www.familysearch.org/ark:/61903/3:1:33SQ-GRQS-99?i=6&cc=1910265&cat=260556",
+        "numer_ostatniej_kliszy_filmu": 879,
+        "klisze_do_zapisania": [
+            {"zapisz_od_numeru": 6, "zapisz_do_numeru": 10},
+            {"zapisz_od_numeru": 75, "zapisz_do_numeru": 76}
+        ]
+    }
+]

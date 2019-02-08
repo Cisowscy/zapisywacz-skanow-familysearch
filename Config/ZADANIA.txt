@@ -1,0 +1,6 @@
+{
+    "adres_przegladarki_filmu": "https://www.familysearch.org/ark:/61903/3:1:33S7-9RQ4-QP7?i=15&cc=1910265&cat=260556",
+    "numer_ostatniej_kliszy_filmu": 861,
+    "zapisz_klisze_od_numeru": 426,
+    "zapisz_klisze_do_numeru": 623
+}
