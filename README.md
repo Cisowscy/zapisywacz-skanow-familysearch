@@ -1,6 +1,6 @@
 # zapisywacz-skanow-familysearch v1.1.0
 
-![alt text](Docs/AVAT.jpg)
+![alt text](docs/AVAT.jpg)
 
 https://www.cisowscy.com/Narzedzia-dla-Genealoga/Mormoni/FamilySearch
 
@@ -21,13 +21,13 @@ Jak i dzielenie się zwłaszcza w grupach i na stronach ku genealogi i kresom uk
 
 ### 1) Utwórz na dysku w dowolnym miejscu folder o dowolnej nazwie a w nim uruchom konsolę np PowerShell 6
 
-![alt text](Docs/Adnotacja_2019-02-08_225629.jpg)
+![alt text](docs/Adnotacja_2019-02-08_225629.jpg)
 
 ### 2) Sklonuj teraz repozytorium  niniejszego skryptu, w tym celu skopiuj i wklej w konsoli i potwierdź enterem poniższą linijkę
 
 `git clone https://github.com/Cisowscy/zapisywacz-skanow-familysearch.git`
 
-![alt text](Docs/Adnotacja_2019-02-08_230627.jpg)
+![alt text](docs/Adnotacja_2019-02-08_230627.jpg)
 
 jeśli pojawii sie jakiś problem to znaczy że nie spełniasz wymagania nr 3 i wówczas poprostu zainstaluj git  https://git-scm.com/download i wykonaj ten krok ponownie
 
